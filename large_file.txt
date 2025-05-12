@@ -1,0 +1,5 @@
+In this blog, we'll walk through building a job board web app using React.js (with Vite for setup), Node.js (using Express), SerpApi to fetch job listings from Google Jobs, and Material-UI (MUI) for styling.
+
+By the end of this tutorial, you'll have a functional job board where users can search for jobs and view results fetched from Google's job listings.
+
+Here is the demo of this project :
